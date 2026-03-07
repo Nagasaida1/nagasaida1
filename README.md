@@ -270,7 +270,7 @@ Features
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=nagasaida1&theme=tokyonight"/>
+[<img src="https://streak-stats.demolab.com/?user=nagasaida1&theme=tokyonight"/>](https://github-readme-stats.vercel.app/api?username=nagasaida1)
 
 </p>
 
