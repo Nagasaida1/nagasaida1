@@ -1,36 +1,38 @@
 <h1 align="center">Hi 👋, I'm Velpula Naga Saida</h1>
-<h3 align="center">Full Stack Developer | React | Django | Node.js | Python</h3>
+<h3 align="center">Full Stack Developer | React | Node.js | Django | Python</h3>
 
 <p align="center">
-Passionate about building scalable web applications and modern user experiences.
+  <img src="https://readme-typing-svg.herokuapp.com?color=E53935&center=true&vCenter=true&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Django;Building+Scalable+Web+Applications;Passionate+About+Modern+UI+%26+Backend+Systems" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🔭 Currently working as **Web Developer at RNR Systems India**
-- 💻 Building **Full Stack Applications with React, Django, Node.js**
-- 🌱 Currently learning **Advanced System Design & Cloud Deployment**
-- ⚡ Passionate about **clean code, scalable architecture, and performance optimization**
-- 📍 Based in **Hyderabad, India**
+- 💻 Full Stack Developer based in **Hyderabad, India**
+- 🚀 Web Developer at **RNR Systems India**
+- ⚡ Passionate about **building scalable web platforms**
+- 🧠 Experienced in **React, Node.js, Django, PostgreSQL**
+- 🌱 Currently exploring **Cloud deployment & system architecture**
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/naga-saida-velpula-964340275/" target="blank">
+
+<a href="https://www.linkedin.com/in/naga-saida-velpula-964340275/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
 </a>
 
-<a href="https://github.com/nagasaida1" target="blank">
+<a href="https://github.com/nagasaida1">
 <img src="https://skillicons.dev/icons?i=github" height="35"/>
 </a>
 
 <a href="mailto:nagasaidavelpula1704@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
 </a>
+
 </p>
 
 ---
@@ -38,28 +40,33 @@ Passionate about building scalable web applications and modern user experiences.
 # 🚀 Tech Stack
 
 ### Programming
+
 <p>
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript"/>
 </p>
 
 ### Frontend
+
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind"/>
 </p>
 
 ### Backend
+
 <p>
-<img src="https://skillicons.dev/icons?i=django,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django"/>
 </p>
 
 ### Databases
+
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql"/>
 </p>
 
-### Tools & Platforms
+### Tools
+
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,pycharm" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,pycharm"/>
 </p>
 
 ---
@@ -70,66 +77,184 @@ Passionate about building scalable web applications and modern user experiences.
 **RNR Systems India**  
 📅 March 2025 – Present
 
-### UrgentSales.in – Real Estate Platform
+### UrgentSales.in – Real Estate Web Application
 
-- Developed a full stack real estate web application
-- Built **React + Vite frontend**
-- Created **50+ REST APIs using Node.js and Express**
+- Built full stack platform using **React + Vite**
+- Developed **50+ REST APIs with Node.js & Express**
 - Designed **PostgreSQL database with 25+ tables**
-- Implemented advanced search and listing management
-- Improved website performance by **20%**
+- Implemented advanced search and property listings
+- Improved performance by **20%**
 - Reduced bounce rate by **25%**
-- Managed **200+ property listings**
+- Managed **200+ real estate listings**
 
-### RNR Systems – Product Showcase Website
+### RNR Systems Product Showcase
 
-- Developed a **3D interactive product website**
-- Used **React, Tailwind CSS, Three.js**
-- Built **15+ reusable components**
-- Added **animations using Framer Motion & GSAP**
-- Implemented **contact form using Nodemailer + SMTP**
-- Improved load speed by **30%**
-
----
-
-# 📂 Projects
-
-## 💰 Expense Tracker
-
-Tech Stack  
-Python, Django, MySQL, HTML, CSS, JavaScript, Bootstrap
-
-Features
-
-- Track daily income and expenses
-- Secure authentication system
-- Dashboard with financial summaries
-- Improved data accuracy and response speed
-
-Impact
-
-- Increased user engagement by **45%**
-- Reduced response time by **20%**
-- Improved user satisfaction by **30%**
+- Built interactive **3D product website**
+- Developed with **React, Tailwind CSS, Three.js**
+- Implemented **Framer Motion & GSAP animations**
+- Created **15+ reusable components**
+- Increased site speed by **30%**
 
 ---
 
-## 🎥 YouTube Video Downloader
+# 🚀 Major Production Projects
 
-Tech Stack  
-Python, FastAPI, HTML, CSS, JavaScript
+## 🥛 OorV Dairy & Farms Website
 
-Features
+Professional farm-to-consumer platform reconnecting people with real, unprocessed food.
 
-- Download YouTube videos in HD quality
-- Fast backend API for downloads
-- Cross-browser compatibility
+**Tech Stack**
 
-Impact
+React  
+Vite  
+Tailwind CSS  
+Framer Motion  
+React Router
 
-- Increased download speed by **25%**
-- Reduced server load by **30%**
-- Improved usability by **30%**
+**Features**
+
+- Responsive UI
+- Testimonials carousel
+- Product offering sections
+- WhatsApp ordering
+- Performance optimized build
+
+---
+
+## 🌍 Viishv Immigration Platform
+
+Immigration consulting website for global visa services.
+
+**Tech Stack**
+
+React  
+Vite  
+Tailwind CSS  
+Framer Motion  
+
+**Features**
+
+- Visa categories grid
+- Destination carousel
+- Immigration services pages
+- Contact inquiry form
+
+---
+
+## 🌐 ISHWIC Imports & Exports Website
+
+Corporate international trade website.
+
+**Tech Stack**
+
+React  
+Vite  
+Tailwind CSS  
+
+**Features**
+
+- Corporate product pages
+- Global markets overview
+- SEO optimized architecture
+- Accessible responsive design
+
+---
+
+## 🏗 ISHVI Real Estate & Construction
+
+Luxury real estate development platform.
+
+**Tech Stack**
+
+React  
+Vite  
+Tailwind CSS  
+
+**Features**
+
+- Interactive project carousel
+- Blog insights
+- Service showcase
+- Contact system
+
+---
+
+## 🏔 Resorts by ISHWIC Group
+
+Premium resort website for Ooty & Mussoorie luxury resorts.
+
+**Tech Stack**
+
+React  
+Vite  
+Tailwind CSS  
+
+**Features**
+
+- Resort filtering
+- Testimonials carousel
+- Booking CTA system
+- Luxury UI design
+
+---
+
+## 🏢 ISHWIC Group Corporate Website
+
+Corporate website representing multiple divisions.
+
+**Divisions**
+
+- Immigration Consultancy
+- Dairy & Farms
+- Real Estate
+- Resorts
+- Imports & Exports
+
+**Tech Stack**
+
+React  
+Vite  
+Tailwind CSS  
+Framer Motion
+
+---
+
+# 💻 Personal Projects
+
+## Expense Tracker
+
+**Tech Stack**
+
+Python  
+Django  
+MySQL  
+HTML  
+CSS  
+JavaScript  
+
+**Features**
+
+- Expense tracking
+- Secure login system
+- Dashboard analytics
+
+---
+
+## YouTube Video Downloader
+
+**Tech Stack**
+
+Python  
+FastAPI  
+HTML  
+CSS  
+JavaScript  
+
+**Features**
+
+- Download HD YouTube videos
+- Fast backend processing
+- Cross browser support
 
 ---
 
@@ -163,16 +288,26 @@ Impact
 
 ---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nagasaida1&theme=tokyonight"/>
+
+</p>
+
+---
+
 # 🎓 Education
 
-**Bachelor of Technology – Computer Science and Engineering**  
+Bachelor of Technology – Computer Science and Engineering  
 Mandava Institute of Engineering and Technology  
-2021 – 2024  
+
 CGPA: **7.33**
 
 Relevant Coursework
 
-- Data Structures and Algorithms
+- Data Structures & Algorithms
 - Database Management Systems
 - Operating Systems
 - Computer Networks
@@ -185,10 +320,22 @@ Relevant Coursework
 - Team Collaboration
 - Strategic Thinking
 - Problem Solving
-- Goal-Oriented Development
 - Communication
+- Goal-oriented development
 
 ---
+
+# 👀 Profile Views
+
+<p align="left">
+
+<img src="https://komarev.com/ghpvc/?username=nagasaida1&label=Profile%20Views&color=E53935&style=flat"/>
+
+</p>
+
+---
+
+⭐ If you like my projects, consider giving them a star!
 
 ⭐ *If you like my work, consider giving a star to my repositories!*
 <!--
