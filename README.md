@@ -1,5 +1,10 @@
 ## Hi there 👋
+<h1 align="center">Hi 👋, I'm Velpula Naga Saida</h1>
+<h3 align="center">Full Stack Developer | Python | React | Django</h3>
 
+<p align="center">
+Passionate about building scalable web applications and learning new technologies.
+</p>
 <!--
 **Nagasaida1/nagasaida1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
