@@ -55,7 +55,26 @@
 👉 https://nagasaidaportfolio.netlify.app/
 
 ---
+## 🧠 Coding Platforms
 
+<p align="left">
+
+<a href="https://leetcode.com/u/Naga_saida1/" target="_blank">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="40"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/nagasaidavelpul2" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="40"/>
+</a>
+
+</p>
+
+🚀 **LeetCode:**  
+https://leetcode.com/u/Naga_saida1/
+
+🏆 **HackerRank:**  
+https://www.hackerrank.com/profile/nagasaidavelpul2
+--
 # 🚀 Tech Stack
 
 ### Programming Languages
@@ -263,7 +282,12 @@ Features
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nagasaida1&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
+---
+## 💻 Top Languages
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagasaida1&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+</p>
 ---
 
 # 🔥 GitHub Streak
