@@ -50,10 +50,6 @@
 </a>
 
 </p>
-
-🌍 **Portfolio:**  
-👉 https://nagasaidaportfolio.netlify.app/
-
 ---
 ## 🧠 Coding Platforms
 
@@ -68,12 +64,6 @@
 </a>
 
 </p>
-
-🚀 **LeetCode:**  
-https://leetcode.com/u/Naga_saida1/
-
-🏆 **HackerRank:**  
-https://www.hackerrank.com/profile/nagasaidavelpul2
 --
 # 🚀 Tech Stack
 
