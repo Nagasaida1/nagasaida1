@@ -50,8 +50,10 @@
 </a>
 
 </p>
+
 ---
-## 🧠 Coding Platforms
+
+# 🧠 Coding Platforms
 
 <p align="left">
 
@@ -64,7 +66,9 @@
 </a>
 
 </p>
---
+
+---
+
 # 🚀 Tech Stack
 
 ### Programming Languages
@@ -267,25 +271,26 @@ Features
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nagasaida1&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=nagasaida1&show_icons=true&theme=tokyonight"/>
 </p>
+
 ---
-## 💻 Top Languages
+
+# 💻 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagasaida1&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagasaida1&layout=compact&theme=tokyonight"/>
 </p>
+
 ---
 
 # 🔥 GitHub Streak
 
 <p align="center">
-
-[<img src="https://streak-stats.demolab.com/?user=nagasaida1&theme=tokyonight"/>](https://github-readme-stats.vercel.app/api?username=nagasaida1)
-
+<img src="https://streak-stats.demolab.com/?user=nagasaida1&theme=tokyonight"/>
 </p>
 
 ---
@@ -293,9 +298,7 @@ Features
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nagasaida1&theme=tokyonight&row=1"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=nagasaida1&theme=tokyonight"/>
 </p>
 
 ---
