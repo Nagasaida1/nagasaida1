@@ -2,69 +2,70 @@
 <h3 align="center">Full Stack Developer | React | Node.js | Django | Python</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E53935&center=true&vCenter=true&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Django;Building+Scalable+Web+Applications;Passionate+About+Modern+UI+%26+Backend+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=E53935&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Django+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 💻 Full Stack Developer based in **Hyderabad, India**
-- 🚀 Web Developer at **RNR Systems India**
-- ⚡ Passionate about **building scalable web platforms**
-- 🧠 Experienced in **React, Node.js, Django, PostgreSQL**
-- 🌱 Currently exploring **Cloud deployment & system architecture**
+💻 Full Stack Developer based in **Hyderabad, India**  
+🚀 Web Developer at **RNR Systems India**  
+⚡ Passionate about building **scalable web applications**  
+🌱 Currently learning **advanced backend systems & cloud deployment**
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Portfolio & Connect With Me
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/naga-saida-velpula-964340275/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
+<a href="https://nagasaidaportfolio.netlify.app/">
+<img src="https://skillicons.dev/icons?i=react" height="40"/>
 </a>
 
 <a href="https://github.com/nagasaida1">
-<img src="https://skillicons.dev/icons?i=github" height="35"/>
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+
+<a href="https://www.linkedin.com/in/naga-saida-velpula-964340275/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
 <a href="mailto:nagasaidavelpula1704@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="35"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 
 </p>
+
+🌍 **Portfolio:**  
+👉 https://nagasaidaportfolio.netlify.app/
 
 ---
 
 # 🚀 Tech Stack
 
-### Programming
-
+### Programming Languages
 <p>
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript"/>
 </p>
 
-### Frontend
-
+### Frontend Development
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind"/>
 </p>
 
-### Backend
-
+### Backend Development
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,django"/>
 </p>
 
 ### Databases
-
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql"/>
 </p>
 
-### Tools
-
+### Tools & Platforms
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,pycharm"/>
 </p>
@@ -73,35 +74,33 @@
 
 # 💼 Work Experience
 
-## Web Developer  
-**RNR Systems India**  
+## Web Developer — RNR Systems India
 📅 March 2025 – Present
 
-### UrgentSales.in – Real Estate Web Application
+### UrgentSales.in Real Estate Platform
 
-- Built full stack platform using **React + Vite**
-- Developed **50+ REST APIs with Node.js & Express**
-- Designed **PostgreSQL database with 25+ tables**
-- Implemented advanced search and property listings
-- Improved performance by **20%**
-- Reduced bounce rate by **25%**
-- Managed **200+ real estate listings**
+• Developed a full stack property listing platform  
+• Built frontend using **React + Vite**  
+• Created **50+ REST APIs using Node.js & Express**  
+• Designed **PostgreSQL database with 25+ tables**  
+• Improved performance by **20%**  
+• Reduced bounce rate by **25%**  
+• Managed **200+ property listings**
 
 ### RNR Systems Product Showcase
 
-- Built interactive **3D product website**
-- Developed with **React, Tailwind CSS, Three.js**
-- Implemented **Framer Motion & GSAP animations**
-- Created **15+ reusable components**
-- Increased site speed by **30%**
+• Developed interactive **3D product website**  
+• Built with **React, Tailwind CSS, Three.js**  
+• Implemented animations using **Framer Motion & GSAP**  
+• Built **15+ reusable components**
 
 ---
 
-# 🚀 Major Production Projects
+# 🚀 Production Projects
 
 ## 🥛 OorV Dairy & Farms Website
 
-Professional farm-to-consumer platform reconnecting people with real, unprocessed food.
+Farm-to-consumer platform reconnecting people with natural food.
 
 **Tech Stack**
 
@@ -109,21 +108,20 @@ React
 Vite  
 Tailwind CSS  
 Framer Motion  
-React Router
 
 **Features**
 
-- Responsive UI
-- Testimonials carousel
-- Product offering sections
-- WhatsApp ordering
-- Performance optimized build
+• Responsive UI  
+• Testimonials carousel  
+• Product offering sections  
+• WhatsApp ordering integration  
+• Performance optimized build  
 
 ---
 
 ## 🌍 Viishv Immigration Platform
 
-Immigration consulting website for global visa services.
+Immigration consulting platform for global visa services.
 
 **Tech Stack**
 
@@ -134,10 +132,10 @@ Framer Motion
 
 **Features**
 
-- Visa categories grid
-- Destination carousel
-- Immigration services pages
-- Contact inquiry form
+• Visa categories grid  
+• Destination carousel  
+• Immigration services pages  
+• Contact inquiry form  
 
 ---
 
@@ -153,14 +151,13 @@ Tailwind CSS
 
 **Features**
 
-- Corporate product pages
-- Global markets overview
-- SEO optimized architecture
-- Accessible responsive design
+• Corporate product pages  
+• Global markets overview  
+• SEO optimized structure  
 
 ---
 
-## 🏗 ISHVI Real Estate & Construction
+## 🏗 ISHVI Real Estate Website
 
 Luxury real estate development platform.
 
@@ -172,16 +169,15 @@ Tailwind CSS
 
 **Features**
 
-- Interactive project carousel
-- Blog insights
-- Service showcase
-- Contact system
+• Interactive project carousel  
+• Blog insights  
+• Service showcase  
 
 ---
 
 ## 🏔 Resorts by ISHWIC Group
 
-Premium resort website for Ooty & Mussoorie luxury resorts.
+Luxury resort website showcasing premium hill station resorts.
 
 **Tech Stack**
 
@@ -191,31 +187,23 @@ Tailwind CSS
 
 **Features**
 
-- Resort filtering
-- Testimonials carousel
-- Booking CTA system
-- Luxury UI design
+• Resort filtering system  
+• Testimonials carousel  
+• Booking CTAs  
 
 ---
 
 ## 🏢 ISHWIC Group Corporate Website
 
-Corporate website representing multiple divisions.
+Corporate website representing multiple business divisions.
 
 **Divisions**
 
-- Immigration Consultancy
-- Dairy & Farms
-- Real Estate
-- Resorts
-- Imports & Exports
-
-**Tech Stack**
-
-React  
-Vite  
-Tailwind CSS  
-Framer Motion
+• Immigration Consultancy  
+• Dairy & Farming  
+• Real Estate & Construction  
+• Resorts & Hospitality  
+• Imports & Exports  
 
 ---
 
@@ -232,11 +220,11 @@ HTML
 CSS  
 JavaScript  
 
-**Features**
+Features
 
-- Expense tracking
-- Secure login system
-- Dashboard analytics
+• Expense tracking system  
+• Financial dashboard  
+• Secure authentication  
 
 ---
 
@@ -250,11 +238,10 @@ HTML
 CSS  
 JavaScript  
 
-**Features**
+Features
 
-- Download HD YouTube videos
-- Fast backend processing
-- Cross browser support
+• Download HD YouTube videos  
+• Fast backend processing  
 
 ---
 
@@ -262,7 +249,9 @@ JavaScript
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nagasaida1&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=nagasaida1&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagasaida1&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -278,21 +267,11 @@ JavaScript
 
 ---
 
-# 💻 Top Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagasaida1&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nagasaida1&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nagasaida1&theme=tokyonight&row=1"/>
 
 </p>
 
@@ -300,45 +279,36 @@ JavaScript
 
 # 🎓 Education
 
-Bachelor of Technology – Computer Science and Engineering  
+Bachelor of Technology — Computer Science and Engineering  
 Mandava Institute of Engineering and Technology  
 
 CGPA: **7.33**
 
-Relevant Coursework
+Relevant Subjects
 
-- Data Structures & Algorithms
-- Database Management Systems
-- Operating Systems
-- Computer Networks
-- Distributed Systems
+• Data Structures & Algorithms  
+• Database Management Systems  
+• Operating Systems  
+• Computer Networks  
 
 ---
 
 # 🧠 Soft Skills
 
-- Team Collaboration
-- Strategic Thinking
-- Problem Solving
-- Communication
-- Goal-oriented development
+• Team Collaboration  
+• Strategic Thinking  
+• Problem Solving  
+• Communication  
 
 ---
 
 # 👀 Profile Views
 
-<p align="left">
-
 <img src="https://komarev.com/ghpvc/?username=nagasaida1&label=Profile%20Views&color=E53935&style=flat"/>
-
-</p>
 
 ---
 
-⭐ If you like my projects, consider giving them a star!
-
-⭐ *If you like my work, consider giving a star to my repositories!*
-<!--
+⭐ If you like my projects, consider giving them a star! 
 **Nagasaida1/nagasaida1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
