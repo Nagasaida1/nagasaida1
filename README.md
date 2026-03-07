@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | React | Node.js | Django | Python</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=E53935&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Django+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?size=24&color=E53935&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Django+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
 </p>
 
 ---
@@ -13,6 +13,19 @@
 🚀 Web Developer at **RNR Systems India**  
 ⚡ Passionate about building **scalable web applications**  
 🌱 Currently learning **advanced backend systems & cloud deployment**
+
+---
+
+# 🚀 What I'm Doing
+
+- 🔭 I’m currently working on **scalable full-stack web applications using React, Node.js, and Django**
+- 🌱 I’m currently learning **advanced backend architecture, system design, and cloud deployment**
+- 👯 I’m looking to collaborate on **open-source full-stack projects, React applications, and REST API development**
+- 🤔 I’m looking for help with **scaling web applications, DevOps practices, and cloud infrastructure (AWS)**
+- 💬 Ask me about **React, JavaScript, Python, Django, Node.js, REST APIs, and full-stack development**
+- 📫 How to reach me: **[nagasaidavelpula1704@gmail.com](mailto:nagasaidavelpula1704@gmail.com)**
+- 😄 Pronouns: **He / Him**
+- ⚡ Fun fact: **I enjoy building real-world web platforms and continuously exploring new technologies to improve performance and user experience.**
 
 ---
 
@@ -74,7 +87,7 @@
 
 # 💼 Work Experience
 
-## Web Developer — RNR Systems India
+## Web Developer — RNR Systems India  
 📅 March 2025 – Present
 
 ### UrgentSales.in Real Estate Platform
@@ -308,17 +321,4 @@ Relevant Subjects
 
 ---
 
-⭐ If you like my projects, consider giving them a star! 
-**Nagasaida1/nagasaida1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ If you like my projects, consider giving them a star!
