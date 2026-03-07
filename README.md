@@ -23,7 +23,7 @@
 - 👯 I’m looking to collaborate on **open-source full-stack projects, React applications, and REST API development**
 - 🤔 I’m looking for help with **scaling web applications, DevOps practices, and cloud infrastructure (AWS)**
 - 💬 Ask me about **React, JavaScript, Python, Django, Node.js, REST APIs, and full-stack development**
-- 📫 How to reach me: **[nagasaidavelpula1704@gmail.com](mailto:nagasaidavelpula1704@gmail.com)**
+- 📫 How to reach me: **Email:** [nagasaidavelpula1704@gmail.com](mailto:nagasaidavelpula1704@gmail.com) | **Phone:** +91 7981625190
 - 😄 Pronouns: **He / Him**
 - ⚡ Fun fact: **I enjoy building real-world web platforms and continuously exploring new technologies to improve performance and user experience.**
 
