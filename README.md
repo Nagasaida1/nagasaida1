@@ -299,39 +299,73 @@ Corporate platform representing multiple business divisions under ISHWIC Group.
 
 # 💻 Personal Projects
 
-## Expense Tracker
+## 💰 Expense Tracker
 
-**Tech Stack**
+A full-stack personal finance management application designed to help users track expenses, monitor spending patterns, and manage personal budgets efficiently.
 
-Python  
-Django  
-MySQL  
-HTML  
-CSS  
-JavaScript  
+**🔗 GitHub Repository:** https://github.com/Nagasaida1/Expense-Tracker
 
-Features
+**Tech Stack:** Python • Django • MySQL • HTML • CSS • JavaScript
 
-• Expense tracking system  
-• Financial dashboard  
-• Secure authentication  
+### Highlights
+
+- Developed a secure expense management platform with authentication and authorization
+- Implemented expense categorization and transaction management
+- Built a financial dashboard for tracking income and expenses
+- Created monthly spending analysis and reporting features
+- Utilized Django ORM for efficient database operations
+- Designed responsive and user-friendly interfaces
+
+### Key Features
+
+- User Authentication & Authorization
+- Expense Tracking & Categorization
+- Financial Dashboard
+- Monthly Reports & Analytics
+- CRUD Operations
+- Secure Database Management
 
 ---
 
-## YouTube Video Downloader
+## 🎥 YouTube Video Downloader
 
-**Tech Stack**
+A web-based application that allows users to download high-quality YouTube videos quickly and efficiently.
 
-Python  
-FastAPI  
-HTML  
-CSS  
-JavaScript  
+**🔗 GitHub Repository:** https://github.com/Nagasaida1/YouTube-video-downloader
 
-Features
+**Tech Stack:** Python • FastAPI • HTML • CSS • JavaScript
 
-• Download HD YouTube videos  
-• Fast backend processing  
+### Highlights
+
+- Developed a lightweight and high-performance backend using FastAPI
+- Implemented support for HD video downloads
+- Enabled multiple video download formats and quality options
+- Utilized asynchronous request handling for improved performance
+- Built a simple and intuitive user interface
+
+### Key Features
+
+- HD Video Downloads
+- Multiple Format Support
+- Fast Backend Processing
+- Browser Compatibility
+- User-Friendly Interface
+
+---
+
+### 🛠 Skills Demonstrated
+
+- Full Stack Development
+- Python Development
+- Django Framework
+- FastAPI Development
+- REST API Design
+- Database Management
+- Authentication & Authorization
+- Responsive Web Design
+- Backend Architecture
+- Problem Solving
+- Performance Optimization
 
 ---
 
