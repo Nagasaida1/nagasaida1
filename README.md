@@ -107,24 +107,32 @@ Software Engineer | Full Stack Developer | React | Node.js | TypeScript | Django
 </a>
 
 </p>
-```
+
 
 
 ---
 
+```
 # 🧠 Coding Platforms
 
-<p align="left">
+<p align="center">
 
 <a href="https://leetcode.com/u/Naga_saida1/" target="_blank">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="40"/>
+<img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/nagasaidavelpul2" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="40"/>
+<img src="https://img.shields.io/badge/HackerRank-Profile-success?style=for-the-badge&logo=hackerrank"/>
 </a>
 
 </p>
+
+<p align="center">
+
+💡 Consistently improving problem-solving skills through Data Structures, Algorithms, and Competitive Programming.
+
+</p>
+
 
 ---
 
