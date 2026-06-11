@@ -111,7 +111,7 @@ Software Engineer | Full Stack Developer | React | Node.js | TypeScript | Django
 
 
 ---
-```
+```html
 # 🧠 Coding Platforms
 
 <p align="center">
@@ -132,6 +132,7 @@ Software Engineer | Full Stack Developer | React | Node.js | TypeScript | Django
 
 </p>
 ```
+
 
 
 ---
