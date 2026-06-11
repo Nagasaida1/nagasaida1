@@ -369,18 +369,11 @@ A web-based application that allows users to download high-quality YouTube video
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nagasaida1&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
-# 💻 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagasaida1&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nagasaida1&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagasaida1&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -388,7 +381,15 @@ A web-based application that allows users to download high-quality YouTube video
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=nagasaida1&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=nagasaida1&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nagasaida1&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -396,40 +397,67 @@ A web-based application that allows users to download high-quality YouTube video
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nagasaida1&theme=tokyonight"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=nagasaida1&theme=tokyonight&row=1&column=7&no-frame=true"/>
 </p>
 
 ---
 
 # 🎓 Education
 
-Bachelor of Technology — Computer Science and Engineering  
-Mandava Institute of Engineering and Technology  
+### Bachelor of Technology (B.Tech) — Computer Science & Engineering
 
-CGPA: **7.33**
+🏫 Mandava Institute of Engineering and Technology
 
-Relevant Subjects
+📊 CGPA: **7.33**
 
-• Data Structures & Algorithms  
-• Database Management Systems  
-• Operating Systems  
-• Computer Networks  
+### Relevant Coursework
+
+* Data Structures & Algorithms
+* Database Management Systems
+* Operating Systems
+* Computer Networks
+* Object-Oriented Programming
+* Distributed Systems
 
 ---
 
 # 🧠 Soft Skills
 
-• Team Collaboration  
-• Strategic Thinking  
-• Problem Solving  
-• Communication  
+* Problem Solving
+* Analytical Thinking
+* Communication
+* Team Collaboration
+* Leadership
+* Adaptability
+* Strategic Thinking
+* Time Management
+* Critical Thinking
+* Continuous Learning
 
 ---
 
 # 👀 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=nagasaida1&label=Profile%20Views&color=E53935&style=flat"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nagasaida1&label=Profile%20Views&color=0A66C2&style=for-the-badge"/>
+</p>
 
 ---
 
-⭐ If you like my projects, consider giving them a star!
+# 🤝 Let's Connect
+
+💼 Open to Software Engineer, Full Stack Developer, and Frontend Developer opportunities.
+
+📧 Email: **[nagasaidavelpula1704@gmail.com](mailto:nagasaidavelpula1704@gmail.com)**
+
+🌐 Portfolio: **https://nagasaidaportfolio.netlify.app/**
+
+💻 GitHub: **https://github.com/Nagasaida1**
+
+🔗 LinkedIn: **https://www.linkedin.com/in/naga-saida-velpula-964340275/**
+
+---
+
+⭐ Thanks for visiting my profile!
+
+🚀 Building production-ready applications, solving real-world problems, and continuously learning new technologies.
