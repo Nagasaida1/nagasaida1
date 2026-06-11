@@ -189,6 +189,8 @@ Software Engineer | Full Stack Developer | React | Node.js | TypeScript | Django
 
 Farm-to-consumer platform focused on delivering natural and organic food products.
 
+**🌐 Live Demo:** https://oorvdairy.com/
+
 **Tech Stack:** React • Vite • Tailwind CSS • Framer Motion
 
 ### Highlights
@@ -204,6 +206,8 @@ Farm-to-consumer platform focused on delivering natural and organic food product
 ## 🌍 Viishv Immigration Platform
 
 Immigration consulting platform providing visa and migration services.
+
+**🌐 Live Demo:** https://viishvimmigration.com/
 
 **Tech Stack:** React • Vite • Tailwind CSS • Framer Motion
 
@@ -221,6 +225,8 @@ Immigration consulting platform providing visa and migration services.
 
 Corporate website for international trade and business operations.
 
+**🌐 Live Demo:** https://export-import-ishwic.netlify.app/
+
 **Tech Stack:** React • Vite • Tailwind CSS
 
 ### Highlights
@@ -235,6 +241,8 @@ Corporate website for international trade and business operations.
 ## 🏗 ISHVI Real Estate
 
 Real estate development and property showcase platform.
+
+**🌐 Live Demo:** https://ishwicgroup.com/real-estate-coming-soon
 
 **Tech Stack:** React • Vite • Tailwind CSS
 
@@ -251,6 +259,8 @@ Real estate development and property showcase platform.
 
 Luxury hospitality platform showcasing premium resort destinations.
 
+**🌐 Live Demo:** https://ishwicgroup.com/resorts-coming-soon
+
 **Tech Stack:** React • Vite • Tailwind CSS
 
 ### Highlights
@@ -265,6 +275,8 @@ Luxury hospitality platform showcasing premium resort destinations.
 ## 🏢 ISHWIC Group Corporate Website
 
 Corporate platform representing multiple business divisions under ISHWIC Group.
+
+**🌐 Live Demo:** https://ishwicgroup.com/
 
 **Tech Stack:** React • Vite • Tailwind CSS
 
@@ -282,7 +294,6 @@ Corporate platform representing multiple business divisions under ISHWIC Group.
 * Developed scalable and reusable frontend architecture
 * Created responsive layouts and optimized navigation experience
 * Strengthened overall digital presence and brand visibility
-
 
 ---
 
