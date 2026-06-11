@@ -130,21 +130,10 @@ Software Engineer | Full Stack Developer | React | Node.js | TypeScript | Django
 
 ---
 
-# 🚀 Tech Stack
+<h3 align="center">Languages & Technologies</h3>
 
-### Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript"/>
-</p>
-
-### Frontend Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind"/>
-</p>
-
-### Backend Development
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,tailwind,bootstrap,nodejs,express,django,fastapi,mysql,mongodb,postgresql,git,github,postman,vscode,vite" />
 </p>
 
 ### Databases
