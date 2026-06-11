@@ -1,8 +1,33 @@
 <h1 align="center">Hi 👋, I'm Velpula Naga Saida</h1>
-<h3 align="center">Full Stack Developer | React | Node.js | Django | Python</h3>
+
+<h3 align="center">
+Software Engineer | Full Stack Developer | React | Node.js | TypeScript | Django | Python
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=24&color=E53935&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Django+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Django+%7C+FastAPI+%7C+PostgreSQL;Building+Production+Ready+Applications;200%2B+Property+Listings+Platform;Open+to+Software+Engineering+Opportunities;Always+Learning+New+Technologies"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/nagasaida1">
+<img src="https://img.shields.io/github/followers/nagasaida1?label=GitHub%20Followers&style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/naga-saida-velpula-964340275/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://nagasaidaportfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge"/>
+</a>
+
+<a href="mailto:nagasaidavelpula1704@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=nagasaida1&label=Profile%20Views&color=0A66C2&style=for-the-badge"/>
 </p>
 
 ---
