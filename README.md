@@ -127,7 +127,9 @@ Software Engineer | Full Stack Developer | React | Node.js | TypeScript | Django
 <p align="center">
 🚀 Strengthening Data Structures, Algorithms, Problem Solving, and System Design skills for Software Engineering excellence.
 </p>
+
 ---
+
 # 🚀 Tech Stack
 
 ### Programming Languages
