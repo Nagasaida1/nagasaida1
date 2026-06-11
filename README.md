@@ -1,6 +1,6 @@
 <h2>Velpula Naga Saida</h2>
 
-**Full Stack Engineer** · React · Node.js · TypeScript · Django · PostgreSQL
+**Software Engineer** · Full Stack Development · React · Node.js · TypeScript . Django · PostgreSQL . python
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nagasaidaportfolio.netlify.app-0A66C2?style=flat-square)](https://nagasaidaportfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-naga--saida--velpula-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/naga-saida-velpula-964340275/)
@@ -15,7 +15,6 @@ Full Stack Developer with 1 year of production experience building real estate a
 Currently focused on system design, cloud infrastructure, and scaling backend services.
 
 - **Open to:** Full Stack, Backend, or Frontend SWE roles
-- **Location:** Hyderabad, India · Open to relocation / remote
 
 ---
 
@@ -38,6 +37,8 @@ Currently focused on system design, cloud infrastructure, and scaling backend se
 
 ---
 
+Selected production and personal projects demonstrating full-stack development, backend engineering, and modern frontend architecture.
+
 ## Selected Projects
 
 | Project | Stack | Links |
@@ -58,7 +59,7 @@ Frontend      React  Tailwind CSS  Three.js  GSAP  Framer Motion
 Backend       Node.js  Express  Django  FastAPI
 Databases     PostgreSQL  MySQL  MongoDB
 Tools         Git  Postman  Vite  Power BI
-Learning      Docker  AWS (EC2, S3)  Redis  CI/CD (GitHub Actions)
+Learning      Docker  AWS (EC2, S3)  CI/CD (GitHub Actions)
 ```
 
 ---
