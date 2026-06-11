@@ -1,6 +1,6 @@
 <h2>Velpula Naga Saida</h2>
 
-**Software Engineer** · Full Stack Development · React · Node.js · TypeScript . Django · PostgreSQL . python
+**Software Engineer** · Full Stack Development · React · Node.js · TypeScript · Django · PostgreSQL · Python
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nagasaidaportfolio.netlify.app-0A66C2?style=flat-square)](https://nagasaidaportfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-naga--saida--velpula-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/naga-saida-velpula-964340275/)
@@ -12,7 +12,7 @@
 
 Full Stack Developer with 1 year of production experience building real estate and enterprise web platforms. Shipped features used by real users across property listing, 3D product showcase, immigration consulting, and dairy e-commerce domains.
 
-Currently focused on system design, cloud infrastructure, and scaling backend services.
+Currently focused on system design, cloud infrastructure, backend engineering, and scalable web applications.
 
 - **Open to:** Full Stack, Backend, or Frontend SWE roles
 
@@ -20,7 +20,8 @@ Currently focused on system design, cloud infrastructure, and scaling backend se
 
 ## Experience
 
-### Full Stack Developer — RNR Systems India *(Mar 2025 – Apr 2026)*
+### Full Stack Developer | RNR Systems India
+*Mar 2025 – Apr 2026*
 
 **UrgentSales.in** · Real Estate Platform
 
@@ -54,21 +55,25 @@ Selected production and personal projects demonstrating full-stack development, 
 ## Tech Stack
 
 ```
-Languages     Python  JavaScript  TypeScript  SQL
-Frontend      React  Tailwind CSS  Three.js  GSAP  Framer Motion
-Backend       Node.js  Express  Django  FastAPI
-Databases     PostgreSQL  MySQL  MongoDB
-Tools         Git  Postman  Vite  Power BI
-Learning      Docker  AWS (EC2, S3)  CI/CD (GitHub Actions)
+Languages      Python · JavaScript · TypeScript · SQL
+Frontend       React · Tailwind CSS · Three.js · GSAP · Framer Motion
+Backend        Node.js · Express · Django · FastAPI
+Databases      PostgreSQL · MySQL · MongoDB
+Tools          Git · Postman · Vite · Power BI
+Learning       Docker · AWS (EC2, S3) · CI/CD
 ```
 
 ---
 
-## GitHub Stats
+## GitHub Analytics
 
-<p align="left">
+<p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=nagasaida1&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagasaida1&layout=compact&theme=default&hide_border=true&hide_title=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nagasaida1&hide_border=true"/>
 </p>
 
 ---
