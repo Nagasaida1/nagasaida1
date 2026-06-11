@@ -150,25 +150,36 @@ Software Engineer | Full Stack Developer | React | Node.js | TypeScript | Django
 
 # 💼 Work Experience
 
-## Web Developer — RNR Systems India  
-📅 March 2025 – Present
+## Full Stack Developer — RNR Systems India
 
-### UrgentSales.in Real Estate Platform
+📅 March 2025 – April 2026
 
-• Developed a full stack property listing platform  
-• Built frontend using **React + Vite**  
-• Created **50+ REST APIs using Node.js & Express**  
-• Designed **PostgreSQL database with 25+ tables**  
-• Improved performance by **20%**  
-• Reduced bounce rate by **25%**  
-• Managed **200+ property listings**
+### 🏢 UrgentSales.in — Real Estate Platform
 
-### RNR Systems Product Showcase
+**Tech Stack:** React, TypeScript, Vite, Node.js, Express.js, PostgreSQL
 
-• Developed interactive **3D product website**  
-• Built with **React, Tailwind CSS, Three.js**  
-• Implemented animations using **Framer Motion & GSAP**  
-• Built **15+ reusable components**
+* Architected and developed a full-stack real estate platform supporting **200+ property listings**
+* Built **12+ responsive screens** for property browsing, search, and management
+* Developed and maintained **50+ REST APIs** using Node.js and Express.js
+* Designed and optimized **PostgreSQL databases with 25+ tables**
+* Improved application performance through API optimization and lazy loading techniques
+* Implemented advanced search, filtering, and property management workflows
+* Delivered a responsive and user-friendly experience across desktop and mobile devices
+
+---
+
+### 🖥️ RNR Systems Product Showcase
+
+**Tech Stack:** React, Tailwind CSS, Three.js, GSAP, Framer Motion, Node.js
+
+* Developed an interactive **3D product showcase platform** for enterprise products
+* Built **15+ reusable React components** to improve maintainability and scalability
+* Implemented advanced animations using **GSAP** and **Framer Motion**
+* Created immersive product experiences using **Three.js**
+* Integrated contact forms using **Nodemailer and SMTP services**
+* Optimized UI performance and responsiveness across multiple devices
+* Collaborated with stakeholders to translate business requirements into scalable web solutions
+
 
 ---
 
