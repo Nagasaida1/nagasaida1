@@ -111,7 +111,6 @@ Software Engineer | Full Stack Developer | React | Node.js | TypeScript | Django
 
 
 ---
-
 ```
 # 🧠 Coding Platforms
 
@@ -132,6 +131,7 @@ Software Engineer | Full Stack Developer | React | Node.js | TypeScript | Django
 💡 Consistently improving problem-solving skills through Data Structures, Algorithms, and Competitive Programming.
 
 </p>
+```
 
 
 ---
