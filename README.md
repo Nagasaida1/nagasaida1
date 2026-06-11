@@ -51,12 +51,15 @@ Currently focused on system design, cloud infrastructure, and scaling backend se
 ---
 
 ## Tech Stack
+
+```
 Languages     Python  JavaScript  TypeScript  SQL
 Frontend      React  Tailwind CSS  Three.js  GSAP  Framer Motion
 Backend       Node.js  Express  Django  FastAPI
 Databases     PostgreSQL  MySQL  MongoDB
 Tools         Git  Postman  Vite  Power BI
 Learning      Docker  AWS (EC2, S3)  Redis  CI/CD (GitHub Actions)
+```
 
 ---
 
