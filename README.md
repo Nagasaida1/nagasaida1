@@ -185,112 +185,104 @@ Software Engineer | Full Stack Developer | React | Node.js | TypeScript | Django
 
 # 🚀 Production Projects
 
-## 🥛 OorV Dairy & Farms Website
+## 🥛 OorV Dairy & Farms
 
-Farm-to-consumer platform reconnecting people with natural food.
+Farm-to-consumer platform focused on delivering natural and organic food products.
 
-**Tech Stack**
+**Tech Stack:** React • Vite • Tailwind CSS • Framer Motion
 
-React  
-Vite  
-Tailwind CSS  
-Framer Motion  
+### Highlights
 
-**Features**
-
-• Responsive UI  
-• Testimonials carousel  
-• Product offering sections  
-• WhatsApp ordering integration  
-• Performance optimized build  
+* Developed responsive and mobile-friendly user interfaces
+* Built engaging product showcase sections
+* Integrated WhatsApp ordering functionality
+* Implemented animated user experiences using Framer Motion
+* Optimized performance and page loading speed
 
 ---
 
 ## 🌍 Viishv Immigration Platform
 
-Immigration consulting platform for global visa services.
+Immigration consulting platform providing visa and migration services.
 
-**Tech Stack**
+**Tech Stack:** React • Vite • Tailwind CSS • Framer Motion
 
-React  
-Vite  
-Tailwind CSS  
-Framer Motion  
+### Highlights
 
-**Features**
-
-• Visa categories grid  
-• Destination carousel  
-• Immigration services pages  
-• Contact inquiry form  
+* Designed visa category and destination exploration pages
+* Developed interactive destination carousels
+* Built service-focused landing pages
+* Integrated inquiry and lead-generation forms
+* Created responsive UI across all devices
 
 ---
 
-## 🌐 ISHWIC Imports & Exports Website
+## 🌐 ISHWIC Imports & Exports
 
-Corporate international trade website.
+Corporate website for international trade and business operations.
 
-**Tech Stack**
+**Tech Stack:** React • Vite • Tailwind CSS
 
-React  
-Vite  
-Tailwind CSS  
+### Highlights
 
-**Features**
-
-• Corporate product pages  
-• Global markets overview  
-• SEO optimized structure  
+* Developed corporate product showcase pages
+* Built global market and business information sections
+* Implemented SEO-friendly page structures
+* Designed responsive layouts for business users
 
 ---
 
-## 🏗 ISHVI Real Estate Website
+## 🏗 ISHVI Real Estate
 
-Luxury real estate development platform.
+Real estate development and property showcase platform.
 
-**Tech Stack**
+**Tech Stack:** React • Vite • Tailwind CSS
 
-React  
-Vite  
-Tailwind CSS  
+### Highlights
 
-**Features**
-
-• Interactive project carousel  
-• Blog insights  
-• Service showcase  
+* Developed project showcase and service pages
+* Built interactive property carousels
+* Created blog and content management sections
+* Optimized user experience for property exploration
 
 ---
 
 ## 🏔 Resorts by ISHWIC Group
 
-Luxury resort website showcasing premium hill station resorts.
+Luxury hospitality platform showcasing premium resort destinations.
 
-**Tech Stack**
+**Tech Stack:** React • Vite • Tailwind CSS
 
-React  
-Vite  
-Tailwind CSS  
+### Highlights
 
-**Features**
-
-• Resort filtering system  
-• Testimonials carousel  
-• Booking CTAs  
+* Developed resort listing and showcase pages
+* Implemented testimonials and customer feedback sections
+* Created booking-focused call-to-action flows
+* Designed responsive hospitality-focused interfaces
 
 ---
 
 ## 🏢 ISHWIC Group Corporate Website
 
-Corporate website representing multiple business divisions.
+Corporate platform representing multiple business divisions under ISHWIC Group.
 
-**Divisions**
+**Tech Stack:** React • Vite • Tailwind CSS
 
-• Immigration Consultancy  
-• Dairy & Farming  
-• Real Estate & Construction  
-• Resorts & Hospitality  
-• Imports & Exports  
+### Business Divisions
+
+* Immigration Consultancy
+* Dairy & Farming
+* Real Estate & Construction
+* Resorts & Hospitality
+* Imports & Exports
+
+### Highlights
+
+* Unified multiple business verticals into a single corporate platform
+* Developed scalable and reusable frontend architecture
+* Created responsive layouts and optimized navigation experience
+* Strengthened overall digital presence and brand visibility
+
 
 ---
 
