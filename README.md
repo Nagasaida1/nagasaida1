@@ -1,54 +1,31 @@
-```md
 <h1 align="center">Hi 👋, I'm Velpula Naga Saida</h1>
-
-<h3 align="center">
-Software Engineer | Full Stack Developer | React | Node.js | TypeScript | Django | Python
-</h3>
+<h3 align="center">Full Stack Developer | React | Node.js | Django | Python</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=850&lines=Software+Engineer;Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Django+%7C+FastAPI+%7C+PostgreSQL;Building+Production+Ready+Applications;Always+Learning+New+Technologies"/>
-</p>
-
-<p align="center">
-<a href="https://github.com/nagasaida1">
-<img src="https://img.shields.io/github/followers/nagasaida1?label=Followers&style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/naga-saida-velpula-964340275/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://nagasaidaportfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge"/>
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?size=24&color=E53935&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Django+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-💻 Software Engineer & Full Stack Developer based in **Hyderabad, India**
-
-🚀 Full Stack Developer at **RNR Systems India**
-
-⚡ Passionate about building scalable web applications and solving real-world business problems
-
-🌱 Currently learning **System Design, AWS, Cloud Computing, and Scalable Backend Architecture**
-
-🎯 Open to Software Engineer and Full Stack Developer opportunities
+💻 Full Stack Developer based in **Hyderabad, India**  
+🚀 Web Developer at **RNR Systems India**  
+⚡ Passionate about building **scalable web applications**  
+🌱 Currently learning **advanced backend systems & cloud deployment**
 
 ---
 
 # 🚀 What I'm Doing
 
-- 🔭 Building production-ready full-stack applications using React, TypeScript, Node.js, Express.js, Django, and PostgreSQL
-- 🌱 Learning System Design, AWS, Docker, CI/CD, and Cloud Technologies
-- 👯 Looking to collaborate on open-source and full-stack development projects
-- 🤔 Exploring scalable architecture and backend engineering best practices
-- 💬 Ask me about React, JavaScript, TypeScript, Python, Django, FastAPI, Node.js, PostgreSQL, and REST APIs
-- 📫 Email: **nagasaidavelpula1704@gmail.com**
-- 📱 Phone: **+91 7396625195**
-- ⚡ Fun Fact: I enjoy transforming business requirements into scalable digital products
+- 🔭 I’m currently working on **scalable full-stack web applications using React, Node.js, and Django**
+- 🌱 I’m currently learning **advanced backend architecture, system design, and cloud deployment**
+- 👯 I’m looking to collaborate on **open-source full-stack projects, React applications, and REST API development**
+- 🤔 I’m looking for help with **scaling web applications, DevOps practices, and cloud infrastructure (AWS)**
+- 💬 Ask me about **React, JavaScript, Python, Django, Node.js, REST APIs, and full-stack development**
+- 📫 How to reach me: **Email:** [nagasaidavelpula1704@gmail.com](mailto:nagasaidavelpula1704@gmail.com) | **Phone:** +91 7981625190
+- 😄 Pronouns: **He / Him**
+- ⚡ Fun fact: **I enjoy building real-world web platforms and continuously exploring new technologies to improve performance and user experience.**
 
 ---
 
@@ -95,31 +72,26 @@ Software Engineer | Full Stack Developer | React | Node.js | TypeScript | Django
 # 🚀 Tech Stack
 
 ### Programming Languages
-
 <p>
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript"/>
 </p>
 
 ### Frontend Development
-
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind"/>
 </p>
 
 ### Backend Development
-
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django"/>
 </p>
 
 ### Databases
-
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql"/>
 </p>
 
 ### Tools & Platforms
-
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,pycharm"/>
 </p>
@@ -128,37 +100,25 @@ Software Engineer | Full Stack Developer | React | Node.js | TypeScript | Django
 
 # 💼 Work Experience
 
-## Full Stack Developer — RNR Systems India
-
+## Web Developer — RNR Systems India  
 📅 March 2025 – Present
 
-### 🏢 UrgentSales.in – Real Estate Platform
+### UrgentSales.in Real Estate Platform
 
-• Developed a full-stack real estate platform supporting 200+ property listings
+• Developed a full stack property listing platform  
+• Built frontend using **React + Vite**  
+• Created **50+ REST APIs using Node.js & Express**  
+• Designed **PostgreSQL database with 25+ tables**  
+• Improved performance by **20%**  
+• Reduced bounce rate by **25%**  
+• Managed **200+ property listings**
 
-• Built 12+ responsive screens using React, Vite, and TypeScript
+### RNR Systems Product Showcase
 
-• Developed 50+ REST APIs using Node.js and Express.js
-
-• Designed and maintained PostgreSQL databases with 25+ tables
-
-• Improved application performance through API optimization and lazy loading
-
-• Supported search, filtering, property management, and listing workflows
-
----
-
-### 🖥 RNR Systems Product Showcase
-
-• Developed an interactive 3D product showcase website
-
-• Built using React, Tailwind CSS, Three.js, and Node.js
-
-• Developed 15+ reusable UI components
-
-• Implemented advanced GSAP and Framer Motion animations
-
-• Integrated contact forms using Nodemailer and SMTP
+• Developed interactive **3D product website**  
+• Built with **React, Tailwind CSS, Three.js**  
+• Implemented animations using **Framer Motion & GSAP**  
+• Built **15+ reusable components**
 
 ---
 
@@ -168,21 +128,20 @@ Software Engineer | Full Stack Developer | React | Node.js | TypeScript | Django
 
 Farm-to-consumer platform reconnecting people with natural food.
 
-### Tech Stack
+**Tech Stack**
 
-React • Vite • Tailwind CSS • Framer Motion
+React  
+Vite  
+Tailwind CSS  
+Framer Motion  
 
-### Features
+**Features**
 
-• Responsive UI
-
-• Testimonials Carousel
-
-• Product Offering Sections
-
-• WhatsApp Ordering Integration
-
-• Optimized Performance
+• Responsive UI  
+• Testimonials carousel  
+• Product offering sections  
+• WhatsApp ordering integration  
+• Performance optimized build  
 
 ---
 
@@ -190,19 +149,19 @@ React • Vite • Tailwind CSS • Framer Motion
 
 Immigration consulting platform for global visa services.
 
-### Tech Stack
+**Tech Stack**
 
-React • Vite • Tailwind CSS • Framer Motion
+React  
+Vite  
+Tailwind CSS  
+Framer Motion  
 
-### Features
+**Features**
 
-• Visa Categories Grid
-
-• Destination Carousel
-
-• Immigration Services Pages
-
-• Contact Inquiry Forms
+• Visa categories grid  
+• Destination carousel  
+• Immigration services pages  
+• Contact inquiry form  
 
 ---
 
@@ -210,19 +169,17 @@ React • Vite • Tailwind CSS • Framer Motion
 
 Corporate international trade website.
 
-### Tech Stack
+**Tech Stack**
 
-React • Vite • Tailwind CSS
+React  
+Vite  
+Tailwind CSS  
 
-### Features
+**Features**
 
-• Product Showcase
-
-• Corporate Information
-
-• Global Markets Overview
-
-• SEO Optimized Structure
+• Corporate product pages  
+• Global markets overview  
+• SEO optimized structure  
 
 ---
 
@@ -230,99 +187,49 @@ React • Vite • Tailwind CSS
 
 Luxury real estate development platform.
 
-### Tech Stack
+**Tech Stack**
 
-React • Vite • Tailwind CSS
+React  
+Vite  
+Tailwind CSS  
 
-### Features
+**Features**
 
-• Interactive Project Showcase
-
-• Service Pages
-
-• Blog Insights
-
-• Responsive UI
+• Interactive project carousel  
+• Blog insights  
+• Service showcase  
 
 ---
 
 ## 🏔 Resorts by ISHWIC Group
 
-Luxury resort platform showcasing premium hospitality experiences.
+Luxury resort website showcasing premium hill station resorts.
 
-### Tech Stack
+**Tech Stack**
 
-React • Vite • Tailwind CSS
+React  
+Vite  
+Tailwind CSS  
 
-### Features
+**Features**
 
-• Resort Listings
-
-• Testimonials Carousel
-
-• Booking CTA
-
-• Destination Pages
+• Resort filtering system  
+• Testimonials carousel  
+• Booking CTAs  
 
 ---
 
 ## 🏢 ISHWIC Group Corporate Website
 
-Corporate platform representing multiple business divisions.
+Corporate website representing multiple business divisions.
 
-### Business Divisions
+**Divisions**
 
-• Immigration Consultancy
-
-• Dairy & Farming
-
-• Real Estate & Construction
-
-• Resorts & Hospitality
-
-• Imports & Exports
-
----
-
-## 🏢 UrgentSales.in
-
-Real Estate Property Listing Platform
-
-### Tech Stack
-
-React • TypeScript • Node.js • Express.js • PostgreSQL
-
-### Features
-
-• Property Listings
-
-• Search & Filtering
-
-• Admin Dashboard
-
-• REST APIs
-
-• Responsive UI
-
----
-
-## 🖥 RNR Systems Product Showcase
-
-Interactive 3D Product Experience
-
-### Tech Stack
-
-React • Three.js • Tailwind CSS • Node.js • GSAP
-
-### Features
-
-• 3D Product Visualization
-
-• Interactive Animations
-
-• Contact Forms
-
-• Reusable Component Architecture
+• Immigration Consultancy  
+• Dairy & Farming  
+• Real Estate & Construction  
+• Resorts & Hospitality  
+• Imports & Exports  
 
 ---
 
@@ -330,39 +237,37 @@ React • Three.js • Tailwind CSS • Node.js • GSAP
 
 ## Expense Tracker
 
-### Tech Stack
+**Tech Stack**
 
-Python • Django • MySQL • HTML • CSS • JavaScript
+Python  
+Django  
+MySQL  
+HTML  
+CSS  
+JavaScript  
 
-### Features
+Features
 
-• Expense Tracking System
-
-• Financial Dashboard
-
-• Secure Authentication
-
-• Monthly Spending Reports
-
-• Budget Analysis
+• Expense tracking system  
+• Financial dashboard  
+• Secure authentication  
 
 ---
 
 ## YouTube Video Downloader
 
-### Tech Stack
+**Tech Stack**
 
-Python • FastAPI • HTML • CSS • JavaScript
+Python  
+FastAPI  
+HTML  
+CSS  
+JavaScript  
 
-### Features
+Features
 
-• HD Video Downloads
-
-• Multiple Download Formats
-
-• Fast Backend Processing
-
-• Browser Compatibility
+• Download HD YouTube videos  
+• Fast backend processing  
 
 ---
 
@@ -393,64 +298,40 @@ Python • FastAPI • HTML • CSS • JavaScript
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nagasaida1&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nagasaida1&theme=tokyonight"/>
 </p>
 
 ---
 
 # 🎓 Education
 
-Bachelor of Technology — Computer Science and Engineering
-
-Mandava Institute of Engineering and Technology
+Bachelor of Technology — Computer Science and Engineering  
+Mandava Institute of Engineering and Technology  
 
 CGPA: **7.33**
 
-### Relevant Coursework
+Relevant Subjects
 
-• Data Structures & Algorithms
-
-• Database Management Systems
-
-• Operating Systems
-
-• Computer Networks
-
-• Object-Oriented Programming
-
-• Distributed Systems
+• Data Structures & Algorithms  
+• Database Management Systems  
+• Operating Systems  
+• Computer Networks  
 
 ---
 
 # 🧠 Soft Skills
 
-• Problem Solving
-
-• Strategic Thinking
-
-• Communication
-
-• Team Collaboration
-
-• Leadership
-
-• Adaptability
-
-• Time Management
-
-• Critical Thinking
+• Team Collaboration  
+• Strategic Thinking  
+• Problem Solving  
+• Communication  
 
 ---
 
 # 👀 Profile Views
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=nagasaida1&label=Profile%20Views&color=0A66C2&style=flat"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=nagasaida1&label=Profile%20Views&color=E53935&style=flat"/>
 
 ---
 
 ⭐ If you like my projects, consider giving them a star!
-
-💡 Always building, always learning, always improving.
-```
