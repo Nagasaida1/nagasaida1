@@ -34,11 +34,17 @@ Software Engineer | Full Stack Developer | React | Node.js | TypeScript | Django
 
 # 👨‍💻 About Me
 
-💻 Full Stack Developer based in **Hyderabad, India**  
-🚀 Web Developer at **RNR Systems India**  
-⚡ Passionate about building **scalable web applications**  
-🌱 Currently learning **advanced backend systems & cloud deployment**
+💻 Software Engineer & Full Stack Developer based in **Hyderabad, India**
 
+🚀 Full Stack Developer at **RNR Systems India**
+
+⚡ Building production-ready web applications using **React, Node.js, TypeScript, Django, and PostgreSQL**
+
+🏢 Worked on real-world projects in **Real Estate, Immigration, Hospitality, Dairy, and Corporate domains**
+
+🌱 Currently learning **System Design, AWS, Cloud Computing, and Scalable Backend Systems**
+
+🎯 Open to Software Engineering opportunities
 ---
 
 # 🚀 What I'm Doing
