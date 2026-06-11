@@ -73,7 +73,7 @@ Software Engineer | Full Stack Developer | React | Node.js | TypeScript | Django
 
 
 ---
-```html
+---
 # 🌐 Portfolio & Connect With Me
 
 <p align="center">
