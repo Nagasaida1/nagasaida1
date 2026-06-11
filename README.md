@@ -49,14 +49,28 @@ Software Engineer | Full Stack Developer | React | Node.js | TypeScript | Django
 
 # 🚀 What I'm Doing
 
-- 🔭 I’m currently working on **scalable full-stack web applications using React, Node.js, and Django**
-- 🌱 I’m currently learning **advanced backend architecture, system design, and cloud deployment**
-- 👯 I’m looking to collaborate on **open-source full-stack projects, React applications, and REST API development**
-- 🤔 I’m looking for help with **scaling web applications, DevOps practices, and cloud infrastructure (AWS)**
-- 💬 Ask me about **React, JavaScript, Python, Django, Node.js, REST APIs, and full-stack development**
-- 📫 How to reach me: **Email:** [nagasaidavelpula1704@gmail.com](mailto:nagasaidavelpula1704@gmail.com) | **Phone:** +91 7981625190
-- 😄 Pronouns: **He / Him**
-- ⚡ Fun fact: **I enjoy building real-world web platforms and continuously exploring new technologies to improve performance and user experience.**
+* 🔭 Currently building **production-ready full-stack applications** using React, TypeScript, Node.js, Express.js, Django, FastAPI, and PostgreSQL
+
+* 🌱 Learning **System Design, AWS Cloud, Docker, CI/CD, and Scalable Backend Architecture**
+
+* 👯 Looking to collaborate on **open-source projects, full-stack web applications, SaaS platforms, and REST API development**
+
+* 🤔 Exploring **microservices, cloud infrastructure, DevOps practices, and performance optimization techniques**
+
+* 💬 Ask me about **React, JavaScript, TypeScript, Python, Django, FastAPI, Node.js, PostgreSQL, REST APIs, and Full Stack Development**
+
+* 🚀 Working on real-world projects across **Real Estate, Immigration, Hospitality, Dairy, and Corporate Business Domains**
+
+* 📫 How to reach me:
+
+  * **Email:** [nagasaidavelpula1704@gmail.com](mailto:nagasaidavelpula1704@gmail.com)
+  * **Phone:** +91 7396625195
+  * **LinkedIn:** linkedin.com/in/naga-saida-velpula-964340275
+
+* ⚡ Fun Fact: Built and contributed to multiple production websites serving real businesses while continuously learning modern software engineering practices.
+
+* 🎯 Goal: To become a highly skilled Software Engineer focused on building scalable, high-performance applications used by millions of users.
+
 
 ---
 
